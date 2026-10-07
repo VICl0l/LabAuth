@@ -1,2 +1,2 @@
-# LabAuth v2
+# LabAuth v3
 Para iniciar el laboratorio.
